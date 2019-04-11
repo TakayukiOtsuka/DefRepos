@@ -14,4 +14,10 @@ Module ModGlobal
     ''' </summary>
     Public gUser As New UserInfo
 
+
+    ''' <summary>
+    ''' テスト追加メンバ変数
+    ''' </summary>
+    Public gTestMember As Integer
+
 End Module
